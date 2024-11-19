@@ -1,3 +1,6 @@
 site_name: My Docs 123
 theme: 
   name: material
+nav: 
+  - index.md
+  - workshop.md
